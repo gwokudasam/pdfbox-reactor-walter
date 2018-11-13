@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="debugger-app" />
+        <module name="fontbox" />
+        <module name="pdfbox" />
+        <module name="pdfbox-app" />
+        <module name="pdfbox-debugger" />
+        <module name="pdfbox-examples" />
+        <module name="pdfbox-tools" />
+        <module name="preflight" />
+        <module name="preflight-app" />
+        <module name="wale" />
+        <module name="xmpbox" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="debugger-app" target="1.6" />
+      <module name="fontbox" target="1.6" />
+      <module name="pdfbox" target="1.6" />
+      <module name="pdfbox-app" target="1.6" />
+      <module name="pdfbox-debugger" target="1.6" />
+      <module name="pdfbox-examples" target="1.6" />
+      <module name="pdfbox-parent" target="1.6" />
+      <module name="pdfbox-reactor" target="1.6" />
+      <module name="pdfbox-tools" target="1.6" />
+      <module name="preflight" target="1.6" />
+      <module name="preflight-app" target="1.6" />
+      <module name="wale" target="1.8" />
+      <module name="xmpbox" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

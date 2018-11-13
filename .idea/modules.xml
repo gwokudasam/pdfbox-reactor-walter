@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/debugger-app/debugger-app.iml" filepath="$PROJECT_DIR$/debugger-app/debugger-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fontbox/fontbox.iml" filepath="$PROJECT_DIR$/fontbox/fontbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pdfbox/pdfbox.iml" filepath="$PROJECT_DIR$/pdfbox/pdfbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/pdfbox-app.iml" filepath="$PROJECT_DIR$/app/pdfbox-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/debugger/pdfbox-debugger.iml" filepath="$PROJECT_DIR$/debugger/pdfbox-debugger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/pdfbox-examples.iml" filepath="$PROJECT_DIR$/examples/pdfbox-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/pdfbox-parent.iml" filepath="$PROJECT_DIR$/parent/pdfbox-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pdfbox-reactor.iml" filepath="$PROJECT_DIR$/pdfbox-reactor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools/pdfbox-tools.iml" filepath="$PROJECT_DIR$/tools/pdfbox-tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/preflight/preflight.iml" filepath="$PROJECT_DIR$/preflight/preflight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/preflight-app/preflight-app.iml" filepath="$PROJECT_DIR$/preflight-app/preflight-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wale/wale.iml" filepath="$PROJECT_DIR$/wale/wale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xmpbox/xmpbox.iml" filepath="$PROJECT_DIR$/xmpbox/xmpbox.iml" />
+    </modules>
+  </component>
+</project>
